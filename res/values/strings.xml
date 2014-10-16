@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShareSDKDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="share_title">不同平台分享不同内容,</string>
+    <string name="share_to_wechatmoment">分享到微信朋友圈</string>
+    <string name="share_to_sina">分享到新浪微博</string>
+    <string name="share_to_tencent">分享到腾讯微博</string>
+    <string name="share_to_sms">用短信分享</string>
+
+</resources>
